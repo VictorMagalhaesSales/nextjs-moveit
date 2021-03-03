@@ -1,5 +1,4 @@
-import Document, { Html, Head, Main, NextScript } from 'next/document'
-
+import Document, { Html, Head, Main, NextScript } from 'next/document';
 /* 
 * This file will be used for the entire application and will be loaded only once 
 */
