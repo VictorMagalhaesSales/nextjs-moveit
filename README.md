@@ -2,7 +2,7 @@
   <p>Project developed during the ReactJS/NextJS trail in 4th edition of Next Level Week, created by Rocketseat.</p>
 </div>
 
-## Application made to help concentration
+## SPA to help you concentrate in a fun way
   ![ReactJS](https://img.shields.io/badge/-react-black?style=flat-square&logo=react)
   ![NextJS](https://img.shields.io/badge/-nextjs-black?style=flat-square&logo=next.js)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
