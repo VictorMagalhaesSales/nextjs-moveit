@@ -9,7 +9,8 @@
   ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=node.js)
 
 ## Study documentation
-- o contexto [ChallangesProvider](https://github.com/VictorMagalhaesSales/nextjs-moveit/blob/master/src/contexts/ChallengesContext.tsx) foi criado para gerenciar a comunicação entre os componentes que estão ligados com os desafios da aplicação;
+- O contexto [ChallangesProvider](https://github.com/VictorMagalhaesSales/nextjs-moveit/blob/master/src/contexts/ChallengesContext.tsx)(ContextAPI) foi criado para gerenciar a comunicação entre os componentes que estão ligados com os desafios da aplicação;
+- O contexto [CountdownProvider](https://github.com/VictorMagalhaesSales/nextjs-moveit/blob/master/src/contexts/CountdownContext.tsx)(ContextAPI) foi criado para gerenciar a comunicação entre os componentes que estão ligados a dinâmica do contador da aplicação;
 
 ## Technologies
 
