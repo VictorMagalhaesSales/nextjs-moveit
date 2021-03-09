@@ -1,7 +1,7 @@
 <div align="center">
   <p>Project developed during the ReactJS/NextJS trail in 4th edition of Next Level Week, created by Rocketseat.</p>
-  [application deployed](https://nextjs-moveit-bm5x12w74-victormagalhaessales.vercel.app/)
 </div>
+[Applicationdeployed](https://nextjs-moveit-bm5x12w74-victormagalhaessales.vercel.app)
 
 ## SPA to help you concentrate in a fun way
 ![NextJS](https://img.shields.io/badge/-nextjs-black?style=flat-square&logo=next.js)
